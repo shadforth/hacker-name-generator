@@ -23,11 +23,18 @@ const adjectives = [
   'Zer0',
   'Secr3t',
   'L1ght',
-  'Heavy',
+  'He4vy',
   'Tr0ubled',
   'Sp1cy',
   'St4ck Trace',
-  'Netw0rk'
+  'Netw0rk',
+  'Cut3',
+  'W0rri3d',
+  'Mast3r',
+  'L4dy',
+  'Ha1ry',
+  'Cuddly',
+  'Zuckerb3rg\'s'
 ];
 
 const nouns = [
@@ -60,7 +67,15 @@ const nouns = [
   'Gh0st',
   'Shad0w',
   'Buff3r Overfl0w',
-  'Scr1pt K1tty'
+  'Scr1pt K1tty',
+  'Cucumb3r',
+  'D0nut',
+  'Wir3',
+  'P0tat0',
+  'G1rl',
+  'Be4r',
+  'Sn0rlax',
+  'St3ve J0bs'
 ];
 
 const separators = [
