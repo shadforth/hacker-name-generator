@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a858a377.chunk.css",
-    "main.js": "/static/js/main.4944ce4f.chunk.js",
-    "main.js.map": "/static/js/main.4944ce4f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.3310f33a.chunk.js": "/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/static/js/2.3310f33a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.01eef1a3583b37c39de6b6492376082b.js": "/precache-manifest.01eef1a3583b37c39de6b6492376082b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a858a377.chunk.css.map": "/static/css/main.a858a377.chunk.css.map"
+    "main.css": "/hacker-name-generator/static/css/main.a858a377.chunk.css",
+    "main.js": "/hacker-name-generator/static/js/main.4944ce4f.chunk.js",
+    "main.js.map": "/hacker-name-generator/static/js/main.4944ce4f.chunk.js.map",
+    "runtime~main.js": "/hacker-name-generator/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/hacker-name-generator/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.3310f33a.chunk.js": "/hacker-name-generator/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/hacker-name-generator/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/hacker-name-generator/index.html",
+    "precache-manifest.01eef1a3583b37c39de6b6492376082b.js": "/hacker-name-generator/precache-manifest.01eef1a3583b37c39de6b6492376082b.js",
+    "service-worker.js": "/hacker-name-generator/service-worker.js",
+    "static/css/main.a858a377.chunk.css.map": "/hacker-name-generator/static/css/main.a858a377.chunk.css.map"
   }
 }
