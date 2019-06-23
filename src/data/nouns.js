@@ -37,7 +37,8 @@ const nouns = [
   'Be4r',
   'Sn0rlax',
   'St3ve J0bs',
-  'V0id'
+  'V0id',
+  'Meat Ball'
 ];
 
 export default nouns;

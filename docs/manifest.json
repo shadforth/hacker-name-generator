@@ -1,6 +1,6 @@
 {
-  "short_name": "hacker-name-generator",
-  "name": "hacker-name-generator",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "/hacker-name-generator/favicon.ico",

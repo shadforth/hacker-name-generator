@@ -3,7 +3,6 @@ const adjectives = [
   'Stealthy',
   'Wir3d',
   'Strange',
-  'Sk1nny',
   'Gr3y',
   'R3d',
   'Angry',
@@ -32,7 +31,8 @@ const adjectives = [
   'Hairy',
   'Cuddly',
   'Zuckerb3rg\'s',
-  'Qu33n Elizab3th\'s'
+  'Qu33n Elizab3th\'s',
+  '0dd'
 ];
 
 export default adjectives;
