@@ -1,0 +1,31 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding-left: 50px;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  .App-header {
+    padding-left: 25px;
+  }
+}
+
+.text-hacker-name {
+  margin-top: 10px;
+  color: #EEC843;
+  font-size: 2em;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
