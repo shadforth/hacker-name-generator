@@ -5,7 +5,7 @@ const adjectives = [
   'Raz0r',
   'Stealthy',
   'Wir3d',
-  'Str4ng3',
+  'Strange',
   'Sk1nny',
   'Gr3y',
   'R3d',
@@ -32,9 +32,10 @@ const adjectives = [
   'W0rri3d',
   'Mast3r',
   'L4dy',
-  'Ha1ry',
+  'Hairy',
   'Cuddly',
-  'Zuckerb3rg\'s'
+  'Zuckerb3rg\'s',
+  'Qu33n Elizab3th\'s'
 ];
 
 const nouns = [
@@ -72,7 +73,7 @@ const nouns = [
   'D0nut',
   'Wir3',
   'P0tat0',
-  'G1rl',
+  'Girl',
   'Be4r',
   'Sn0rlax',
   'St3ve J0bs'
@@ -100,6 +101,9 @@ const App = () => {
         </p>
         <p className="text-hacker-name">
           {generateHackerName()}
+        </p>
+        <p className="text-source-code">
+          <a href="https://github.com/shadforth/hacker-name-generator">Source code on GitHub</a>
         </p>
       </header>
     </div>
