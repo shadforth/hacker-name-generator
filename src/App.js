@@ -5,16 +5,15 @@ import adjectives from './data/adjectives';
 import nouns from './data/nouns';
 import separators from './data/separators';
 
-const CHAR_UNDERSCORE = '_';
-const CHAR_SPACE      = ' ';
-
 /**
  * Replace spaces with underscores if a string contains both.
  * @param {String} text
  */
-const checkForConsistentSpacing = (text, search, replace) => {
+const generateConsistentSpacing = (text) => {
+  const char_underscore = '_';
+  const char_space      = ' ';
   if (/\s/.test(text) && /_/.test(text)) {
-    text = text.replace(new RegExp(search, 'g'), replace);
+    text = text.replace(new RegExp(char_space, 'g'), char_underscore);
   }
   return text;
 }
@@ -26,7 +25,7 @@ const generateHackerName = () => {
   const adjective  = adjectives[Math.floor(Math.random() * adjectives.length)];
   const noun       = nouns[Math.floor(Math.random() * nouns.length)];
   const separator  = separators[Math.floor(Math.random() * separators.length)];
-  const hackerName = checkForConsistentSpacing(`${adjective}${separator}${noun}`, CHAR_SPACE, CHAR_UNDERSCORE);
+  const hackerName = generateConsistentSpacing(`${adjective}${separator}${noun}`);
   return hackerName;
 }
 
